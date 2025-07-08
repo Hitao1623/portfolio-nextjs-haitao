@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Output of Next.js
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local env files
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# OS or editor folders
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Mac system files
+*.DS_Store
+
+# Log files
+*.log
+
+# Coverage output (if you use test coverage)
+coverage/
+
+# Optional: IDE folders (e.g., JetBrains, Sublime)
+.idea/
+*.sublime-workspace
+
+# Tailwind generated files (if using JIT and storing cache)
+.tailwindcache/
