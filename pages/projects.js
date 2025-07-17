@@ -33,7 +33,7 @@ export default function Projects() {
       description: "A full-featured web app for booking and managing car rentals with user authentication, vehicle listings, and admin controls.",
       tech: ["Node.js", "Express.js", "MySQL", "Azure Database", "Bootstrap", "Render"],
       codeLink: "https://github.com/RituArora-DevOps/RentnDrive",
-      demoLink: "https://car-rental-web-dy3f.onrender.com",
+      demoLink: "https://carrentalmanagement.onrender.com",
     },
   ];
 
