@@ -11,14 +11,6 @@ export default function Projects() {
       demoLink: "https://movie-explorer-web.vercel.app",
     },
     {
-      title: "E-Commerce Web",
-      image: "/files/ecommerce.jpg",
-      description: "Secure two-sided e-commerce platform with seller dashboards (CRUD) and buyer features including product search, cart, orders, and reviews.",
-      tech: ["Laravel", "PHP", "MySQL", "Tailwind CSS", "Vite", "JavaScript", "Blade", "Eloquent ORM", "JWT", "MVC", "InfinityFree"],
-      codeLink: "https://github.com/dyln-n/webdev-project",
-      demoLink: "https://e-commerce-web.infinityfreeapp.com",
-    },
-    {
       title: "Vehicle Rental System",
       image: "/files/javafx.jpeg",
       description:
@@ -34,6 +26,14 @@ export default function Projects() {
       tech: ["Node.js", "Express.js", "MySQL", "Azure Database", "Bootstrap", "Render"],
       codeLink: "https://github.com/RituArora-DevOps/RentnDrive",
       demoLink: "https://carrentalmanagement.onrender.com",
+    },
+       {
+      title: "E-Commerce Web",
+      image: "/files/ecommerce.jpg",
+      description: "Secure two-sided e-commerce platform with seller dashboards (CRUD) and buyer features including product search, cart, orders, and reviews.",
+      tech: ["Laravel", "PHP", "MySQL", "Tailwind CSS", "Vite", "JavaScript", "Blade", "Eloquent ORM", "JWT", "MVC", "InfinityFree"],
+      codeLink: "https://github.com/dyln-n/webdev-project",
+      demoLink: "https://e-commerce-web.infinityfreeapp.com",
     },
   ];
 
