@@ -21,7 +21,7 @@ export default function Projects() {
     },
     {
       title: "Personal Portfolio Web",
-      image: "/files/movieweb.jpeg",
+      image: "/files/portfolio.png",
       description: "A responsive multi-page personal portfolio website showcasing skills, projects, and contact information, built with Next.js and React, styled using Tailwind CSS, and deployed on Vercel.",
       tech: ["React", "Next.js", "Tailwind CSS", "Vercel"],
       codeLink: "https://github.com/Hitao1623/portfolio-nextjs-haitao",
